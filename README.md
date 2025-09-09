@@ -14,18 +14,18 @@ The app features infinite scroll grid of results, a modal for viewing GIFs in de
 # Installation & Setup
 
 1. Clone the repository:
-git clone <repo-url>
-cd giphy-search
+- `git clone https://github.com/LongR1ver/Giphy-Search-Web.git`
+- `cd giphy-search`
 
 2. Install dependencies:
-npm install
+- `npm install`
 
 3. Create a .env file in the root directory and go to Giphy Developer to create an API Key, then add:
-REACT_APP_GIPHY_API_KEY=your_giphy_api_key
+- `REACT_APP_GIPHY_API_KEY=your_giphy_api_key`
 
 4. Run the project locally:
-npm start
-The app will run on http://localhost:3000 by default
+- `npm start`
+- The app will run on http://localhost:3000 by default
 
 # Deployment
 
